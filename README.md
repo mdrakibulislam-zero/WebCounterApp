@@ -1,5 +1,5 @@
 ## Web Counter App:
-This is a simple counter app based on Web which made with HTML, CSS and JavaScript. It's able count number positive and negative both.
+This is a simple counter app based on Web which made with HTML, CSS and JavaScript. It's able count positive and negative both types of number.
 
 
 ## Outcome:
